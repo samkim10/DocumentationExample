@@ -1,5 +1,8 @@
 # Documentation Example
 
+- some
+- bullet
+- points
 
 ```mermaid
 graph TD;
