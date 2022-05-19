@@ -1,6 +1,5 @@
-# Example
+# Documentation Example
 
-- Apple
-- Orange
-- Banana
+THe webpage is deployed [here](https://samkim10.github.io/DocumentationExample/).
+
 
